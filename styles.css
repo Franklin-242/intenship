@@ -25,7 +25,7 @@ nav a {
 }
 
 .hero {
-    background: url("asset/cool-motorcycle-indoors.jpg") no-repeat center top;
+    background: url("cool-motorcycle-indoors.jpg") no-repeat center top;
     background-position: center ; /* Push image down by 60px */
     background-size: cover;
     color: rgb(255, 255, 255);
